@@ -11,8 +11,13 @@
             "id": "6045a69465f8fb75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hunting horn guide/01 Moveset.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -59,15 +64,22 @@
   },
   "active": "6a5f30ef550f68e1",
   "lastOpenFiles": [
+    "charge blade guide/00 Input Notation.md",
+    "hunting horn guide/01 Moveset.md",
+    "charge blade guide/01 Moveset.md",
+    "charge blade guide/02 Basic mechanics.md",
+    "hunting horn guide",
+    "Universal Input Notation.md",
+    "Hunting Horn Guide/01 Moveset.md",
+    "Hunting Horn Guide",
+    "Untitled.md",
+    "Untitled 1",
     "mhw-wiki",
     "charge blade guide/05 Advanced optimizations.md",
     "charge blade guide/04 Optimized combos.md",
     "charge blade guide/04 Intermediate mechanics.md",
     "charge blade guide/03 Basic game plan.md",
     "charge blade guide/03 Basic combos.md",
-    "charge blade guide/02 Basic mechanics.md",
-    "charge blade guide/01 Moveset.md",
-    "charge blade guide/00 Input Notation.md",
     "charge blade guide",
     "Welcome.md"
   ]
