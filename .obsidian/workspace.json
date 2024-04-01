@@ -11,11 +11,30 @@
             "id": "6045a69465f8fb75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "charge blade guide/01 Moveset.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edb1f721816ad8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "charge blade guide/01 Moveset.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,18 +76,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a5f30ef550f68e1",
+  "active": "edb1f721816ad8dd",
   "lastOpenFiles": [
-    "mhw-wiki",
-    "charge blade guide/05 Advanced optimizations.md",
-    "charge blade guide/04 Optimized combos.md",
+    "00 universal/00 Input Notation.md",
+    "charge blade guide/01 Moveset.md",
+    "00 universal",
+    "charge blade guide/00 Input Notation.md",
+    "charge blade guide/02 Basic mechanics.md",
+    "charge blade guide/03 Basic combos.md",
     "charge blade guide/04 Intermediate mechanics.md",
     "charge blade guide/03 Basic game plan.md",
-    "charge blade guide/03 Basic combos.md",
-    "charge blade guide/02 Basic mechanics.md",
-    "charge blade guide/01 Moveset.md",
-    "charge blade guide/00 Input Notation.md",
-    "charge blade guide",
-    "Welcome.md"
+    "charge blade guide/04 Optimized combos.md",
+    "charge blade guide/05 Advanced optimizations.md",
+    "Untitled.md",
+    "Welcome.md",
+    "mhw-wiki",
+    "charge blade guide"
   ]
 }
