@@ -4,6 +4,8 @@ A -> Unsheathe weapon
 f.A -> Forward Smash
 C -> Performance
 
+![[Pasted image 20240401164742.png]]
+
 # Left Swing
 > [!example]+ Inputs
 > > [!example] A (from neutral)
