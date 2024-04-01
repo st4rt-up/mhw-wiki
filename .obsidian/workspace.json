@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 universal/00 Input Notation.md",
+                "file": "charge blade guide/01 Moveset.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,11 +76,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a5f30ef550f68e1",
+  "active": "edb1f721816ad8dd",
   "lastOpenFiles": [
-    "00 universal",
-    "charge blade guide/01 Moveset.md",
     "00 universal/00 Input Notation.md",
+    "charge blade guide/01 Moveset.md",
+    "00 universal",
+    "charge blade guide/00 Input Notation.md",
     "charge blade guide/02 Basic mechanics.md",
     "charge blade guide/03 Basic combos.md",
     "charge blade guide/04 Intermediate mechanics.md",
