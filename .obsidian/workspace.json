@@ -1,0 +1,74 @@
+{
+  "main": {
+    "id": "4ec2ec75a6b49292",
+    "type": "split",
+    "children": [
+      {
+        "id": "c84bab2688a9cd1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6045a69465f8fb75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7b1cda98fb7a8d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "416f654c958c38fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5f30ef550f68e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0803d42ab384798d",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6a5f30ef550f68e1",
+  "lastOpenFiles": [
+    "mhw-wiki",
+    "charge blade guide/05 Advanced optimizations.md",
+    "charge blade guide/04 Optimized combos.md",
+    "charge blade guide/04 Intermediate mechanics.md",
+    "charge blade guide/03 Basic game plan.md",
+    "charge blade guide/03 Basic combos.md",
+    "charge blade guide/02 Basic mechanics.md",
+    "charge blade guide/01 Moveset.md",
+    "charge blade guide/00 Input Notation.md",
+    "charge blade guide",
+    "Welcome.md"
+  ]
+}
